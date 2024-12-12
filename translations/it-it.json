@@ -138,12 +138,12 @@
   "disengage": "Disimpegno",
   "magic": "Lanciare Incantesimi",
   "ready": "Prepararsi",
-  "utilize": "Usare Oggetto",
+  "utilize": "Usare un'Oggetto",
   "improvise": "Improvvisare",
   "study": "Studiare",
   "shove": "Spinta",
   "grapple": "Lotta",
-  "influence": "Influenza",
+  "influence": "Influenzare",
   "unarmed strike": "Colpo Senz'Armi",
   "melee weapon": "Arma da Mischia",
   "ranged weapon": "Arma a Distanza",
@@ -385,4 +385,8 @@
   "manage extras": "Gestisci Extra",
   "passive checks": "Abilità Passive",
   "add new proficiencies": "Aggiungi Nuove Competenze"
+  "Channel Divinity: Knowledge of the Ages": "Incanalare Divinità: Conoscenze Secolari",
+  "As an action, you can use Channel Divinity to gain proficiency with any skill or tool for 10 minutes.": "Con un'azione, puoi usare Incanalare Divinità per ottenere competenza in un'abilità o uno strumento per 10 minuti.",
+  "Channel Divinity: Read Thoughts:" "Incanalre Divinità: Leggere i pensieri",
+  "As an action, you can use Channel Divinity to choose one creature that you can see within 18 m. That creature must make a WIS saving throw (16). On success, you can’t use this feature on it again until you finish a long rest. On failure, you can read its surface thoughts while within 18 m. for 1 minute. During that time, you can cast suggestion as an action on the target without expending a spell slot.": "Con un'azione, puoi usare Incanalare Divinità per scegliere una creatura che puoi vedere entro 18 m. La creatura deve effettuare un tiro salvezza SAG (16). In caso di successo, non puoi usare di nuovo questa capacità su di essa finché non effettui un riposo lungo. In caso di fallimento, puoi leggere per 1 minuto i suoi pensieri superficiali mentre rimane a 18 m. Durante questo tempo, puoi lanciare suggestione come azione sul bersaglio senza spendere uno slot incantesimo.",
 }
